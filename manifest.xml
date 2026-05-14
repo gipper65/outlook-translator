@@ -14,10 +14,10 @@
   <DisplayName DefaultValue="AI Translator" />
   <Description DefaultValue="Translate email body to the recipient's language using Claude AI." />
 
-  <!-- Icon URLs — replace YOUR-GITHUB-USERNAME in all lines below -->
-  <IconUrl DefaultValue="https://YOUR-GITHUB-USERNAME.github.io/outlook-translator/assets/icon-32.png" />
-  <HighResolutionIconUrl DefaultValue="https://YOUR-GITHUB-USERNAME.github.io/outlook-translator/assets/icon-80.png" />
-  <SupportUrl DefaultValue="https://github.com/YOUR-GITHUB-USERNAME/outlook-translator" />
+  <!-- Icon URLs — replace gipper65 in all lines below -->
+  <IconUrl DefaultValue="https://gipper65.github.io/outlook-translator/assets/icon-32.png" />
+  <HighResolutionIconUrl DefaultValue="https://gipper65.github.io/outlook-translator/assets/icon-80.png" />
+  <SupportUrl DefaultValue="https://github.com/gipper65/outlook-translator" />
 
   <!-- ═══ Permissions ══════════════════════════════════════════════════════════ -->
   <Permissions>ReadWriteItem</Permissions>
@@ -76,17 +76,17 @@
         </Host>
       </Hosts>
 
-      <!-- ═══ Resources — replace YOUR-GITHUB-USERNAME in all URLs ═══════════ -->
+      <!-- ═══ Resources — replace gipper65 in all URLs ═══════════ -->
       <Resources>
         <bt:Images>
-          <bt:Image id="Icon.16x16" DefaultValue="https://YOUR-GITHUB-USERNAME.github.io/outlook-translator/assets/icon-16.png" />
-          <bt:Image id="Icon.32x32" DefaultValue="https://YOUR-GITHUB-USERNAME.github.io/outlook-translator/assets/icon-32.png" />
-          <bt:Image id="Icon.80x80" DefaultValue="https://YOUR-GITHUB-USERNAME.github.io/outlook-translator/assets/icon-80.png" />
+          <bt:Image id="Icon.16x16" DefaultValue="https://gipper65.github.io/outlook-translator/assets/icon-16.png" />
+          <bt:Image id="Icon.32x32" DefaultValue="https://gipper65.github.io/outlook-translator/assets/icon-32.png" />
+          <bt:Image id="Icon.80x80" DefaultValue="https://gipper65.github.io/outlook-translator/assets/icon-80.png" />
         </bt:Images>
 
         <bt:Urls>
-          <bt:Url id="Commands.Url"   DefaultValue="https://YOUR-GITHUB-USERNAME.github.io/outlook-translator/taskpane.html" />
-          <bt:Url id="Taskpane.Url"   DefaultValue="https://YOUR-GITHUB-USERNAME.github.io/outlook-translator/taskpane.html" />
+          <bt:Url id="Commands.Url"   DefaultValue="https://gipper65.github.io/outlook-translator/taskpane.html" />
+          <bt:Url id="Taskpane.Url"   DefaultValue="https://gipper65.github.io/outlook-translator/taskpane.html" />
         </bt:Urls>
 
         <bt:ShortStrings>
